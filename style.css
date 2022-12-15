@@ -1,0 +1,29 @@
+body {
+    background-color: #7d714f;
+  }
+  .png-map {
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto;
+    border: solid 1px #fff;
+    margin-bottom: 20px;
+  }
+  .png-map img {
+    width: 100%;
+    height: auto;
+  }
+  
+  
+  .top-scale {
+    max-width: 500px;
+    margin: 0 auto;
+    border: solid 1px #fff;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .pinIcon {
+    position: absolute;
+    width: 16px;
+    color: white;
+  }
